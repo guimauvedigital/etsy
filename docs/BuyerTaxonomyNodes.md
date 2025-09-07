@@ -1,0 +1,11 @@
+
+# BuyerTaxonomyNodes
+
+## Properties
+| Name | Type | Description | Notes |
+| ------------ | ------------- | ------------- | ------------- |
+| **count** | **kotlin.Int** | The number of results. |  [optional] |
+| **results** | [**kotlin.collections.List&lt;BuyerTaxonomyNode&gt;**](BuyerTaxonomyNode.md) | The list of requested resources. |  [optional] |
+
+
+

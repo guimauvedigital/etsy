@@ -4,6 +4,8 @@ plugins {
     kotlin("multiplatform") version "2.1.21" // kotlin_version
     kotlin("plugin.serialization") version "2.1.21" // kotlin_version
     id("com.vanniktech.maven.publish") version "0.30.0"
+    id("org.jetbrains.kotlinx.kover") version "0.9.0"
+    id("com.google.devtools.ksp") version "2.1.21-2.0.2"
 }
 
 group = "digital.guimauve.etsy"
